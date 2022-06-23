@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="collapseActionView|always"
+        android:theme="@android:style/Theme.Holo.Light"/>
+
+    <group android:checkableBehavior="single" >
+
+        <item android:id="@+id/nav_about"
+            android:title="@string/navAbout"
+            android:icon="@drawable/ic_about" />
+
+        <item android:id="@+id/nav_partners"
+            android:title="@string/navPartners"
+            android:icon="@drawable/ic_partners" />
+
+
+        <item android:title="@string/navFlag">
+            <menu>
+                <item android:title="@string/navFlag_br" android:id="@+id/nav_flag_br" />
+                <item android:title="@string/navFlag_us" android:id="@+id/nav_flag_us" />
+                <item android:title="@string/navFlag_es" android:id="@+id/nav_flag_es" />
+            </menu>
+        </item>
+
+    <item android:title="Usuário">
+        <menu>
+        <item android:id="@+id/nav_perfil"
+            android:title="@string/navPerson"
+            android:icon="@drawable/ic_person" />
+
+        <item android:id="@+id/nav_register"
+            android:icon="@drawable/ic_register"
+            android:title="@string/navRegister" />
+
+        <item android:id="@+id/nav_login"
+            android:title="@string/navLogin"
+            android:icon="@drawable/ic_login" />
+
+        <item android:id="@+id/nav_logout"
+            android:title="@string/navLogout"
+            android:icon="@drawable/ic_logout" />
+
+        </menu>
+    </item>
+
+        <item android:title="">
+    <menu>
+        <item android:id="@+id/nav_leave"
+            android:title="@string/navLeave"
+            android:icon="@drawable/ic_close" />
+    </menu>
+    </item>
+
+    </group>
+
+</menu>
+

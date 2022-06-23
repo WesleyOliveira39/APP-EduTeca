@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EduTeca</string>
+    <string name="menuOpen">Open</string>
+    <string name="menuClose">Close</string>
+
+    <string name="navAbout">Sobre</string>
+    <string name="navPartners">Parceiros</string>
+    <string name="navFlag">Idioma</string>
+    <string name="navFlag_br">Brasil</string>
+    <string name="navFlag_us">Inglês</string>
+    <string name="navFlag_es">Espanhol</string>
+    <string name="navPerson">Perfil</string>
+    <string name="navRegister">Cadastrar</string>
+    <string name="navLogin">Entrar</string>
+    <string name="navLogout">Sair</string>
+    <string name="navLeave">Fechar</string>
+
+    <string name="txtNome">Nome</string>
+    <string name="txtUsername">Apelido</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtVsenha">Confirmar senha</string>
+    <string name="txtRegistre">Não tem uma conta? REGISTRE-SE</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+    <string name="descricao">EduTeca é um projeto com objetivo de desenvolver um serviço em página web e aplicativo para dispositivos móveis que visa a criação de um ambiente único, destinado diretamente na otimização de busca de livros físicos -principalmente através da integração de bibliotecas da cidade de Indaiatuba-; mas também, na oportunidade de permitir a comunicação e interação virtual entre leitores e suas ideias.</string>
+    <string name="redes">Siga-nos nas redes sociais e fique por dentro de todas as novidades!</string>
+    <string name="feedback">Deixe seu feedback em relação ao projeto EduTeca!</string>
+
+
+</resources>

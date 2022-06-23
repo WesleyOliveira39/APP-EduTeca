@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Funcionando/EdutecaV1/app/src/main/res/layout/activity_detail.xml" value="0.17760416666666667" />
+        <entry key="..\:/Funcionando/EdutecaV1/app/src/main/res/layout/activity_insert_livro.xml" value="0.19947916666666668" />
+        <entry key="..\:/Funcionando/EdutecaV1/app/src/main/res/layout/activity_login.xml" value="0.17760416666666667" />
+        <entry key="..\:/Funcionando/EdutecaV1/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Funcionando/EdutecaV1/app/src/main/res/layout/activity_perfil.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/drawable/bgg.xml" value="0.2495" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/drawable/ic_star_black_24dp.xml" value="0.2495" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/drawable/rating_background.xml" value="0.186" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_about.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_base.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_create_user.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_detail.xml" value="0.11627906976744186" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_header.xml" value="0.4528302049755674" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_home.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_insert_livro.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_login.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_main.xml" value="0.19924529018924966" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_perfil.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_perfil_user.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/activity_web_view.xml" value="0.153125" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/content.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/layout/list_item.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/menu/menu_action.xml" value="0.18113208199022698" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/menu/menu_main.xml" value="0.2264151024877837" />
+        <entry key="..\:/Users/wesle/AndroidStudioProjects/EdutecaV1/app/src/main/res/menu/menu_user.xml" value="0.2546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

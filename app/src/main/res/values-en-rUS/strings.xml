@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduTeca</string>
+
+    <string name="descricao">Eduteca is a project aimed at developing a web page service and mobile app that aims to create a unique environment, aimed directly at optimizing physical book search -mainly through the integration of libraries of the city of Indaiatuba-; but also, on the opportunity to allow communication and virtual interaction between readers and their ideas.</string>
+    <string name="redes">Follow us on social networks and keep up with all the news!</string>
+    <string name="feedback">Leave your feedback regarding the Eduteca project!</string>
+
+    <string name="navAbout">About us</string>
+    <string name="navPartners">Partners</string>
+    <string name="navFlag">Language</string>
+    <string name="navFlag_br">Brazil-PT</string>
+    <string name="navFlag_us">English</string>
+    <string name="navFlag_es">Spanish-ES</string>
+    <string name="navPerson">Perfil</string>
+    <string name="navRegister">Register</string>
+    <string name="navLogin">Login</string>
+    <string name="navLogout">Logout</string>
+    <string name="navLeave">Exit</string>
+
+</resources>

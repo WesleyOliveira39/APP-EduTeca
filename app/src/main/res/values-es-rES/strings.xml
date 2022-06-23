@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduTeca</string>
+
+    <string name="descricao">EduTeca es un proyecto con el objetivo de desarrollar un servicio en página web y aplicación para dispositivos móviles que tiene como objetivo la creación de un entorno único, destinado directamente en la optimización de búsqueda de libros físicos -principalmente a través de la integración de bibliotecas de la ciudad de Indaiatuba-; pero también, en la oportunidad de permitir la comunicación e interacción virtual entre lectores y sus ideas.</string>
+    <string name="redes">Síganos en las redes sociales y manténgase al tanto de todas las novedades!</string>
+    <string name="feedback">Deje sus comentarios sobre el proyecto EduTeca!</string>
+
+    <string name="navAbout">Sobre</string>
+    <string name="navPartners">Parceiros</string>
+    <string name="navFlag">Idioma</string>
+    <string name="navFlag_br">Brasil</string>
+    <string name="navFlag_us">inglés</string>
+    <string name="navFlag_es">español</string>
+    <string name="navPerson">Perfil</string>
+    <string name="navRegister">Registrar</string>
+    <string name="navLogin">Acceso</string>
+    <string name="navLogout">Cerrar</string>
+    <string name="navLeave">Cerca</string>
+
+</resources>
